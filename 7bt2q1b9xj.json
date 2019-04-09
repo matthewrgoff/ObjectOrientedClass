@@ -6,8 +6,6 @@
     "phoneNumber": "",
     "city": "New York",
     "state": "NY",
-    "zip": "10001",
-    "lat": "40.71",
-    "lng": "-74.01", 
-    "favoriteHobby": "Running"
+    "favoriteHobby": "Running",
+    "seatLocation": ""
 }
